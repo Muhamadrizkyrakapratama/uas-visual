@@ -24,4 +24,3 @@ Proyek crud sederhana dengan fitur pendaftaran (register), masuk (login), dan me
 - JDK 23 (Default):
   
   Java Development Kit versi 23, merupakan lingkungan pengembangan Java yang digunakan untuk menjalankan aplikasi.
-# uas-visual
