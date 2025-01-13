@@ -4,10 +4,10 @@ Project UAS Pemrograman Visual
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Gilar Sumilar |
-| **NIM** | 312210407 |
+| **Nama** | Muhamad Rizky Raka Pratama |
+| **NIM** | 312210397 |
 | **Kelas** | TI.22.A4 |
-| **Mata Kuliah** | Pemrograman Visual|
+| **Mata Kuliah** | Pemrograman Visual |
 
 ---
 ## Laporan Proyek: Aplikasi Desktop pengelolaan kasir Laundry
